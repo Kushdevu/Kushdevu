@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Devendra Banner Image](banner.png)
+![Devendra Banner Image]
 
 <br>
 
