@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m passionate about machine learning and data analysis.
 - 😄 Pronouns: He/Him
-- 👨‍💻 Highly proficient in Python, R, Excel, MySQL, Power BI, and Tableau
+- 👨‍💻 Highly proficient in Python, Excel, MySQL, Power BI, and Tableau
 - ⚡ Fun fact: I enjoy solving complex puzzles in my free time.
 
 <br/> 
