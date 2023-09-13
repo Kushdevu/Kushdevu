@@ -30,13 +30,11 @@ Here are some ideas to get you started:
 <div>  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 30px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
 <a href="https://www.r-project.org/" target="_blank"><img style="margin: 30px" src="https://profilinator.rishav.dev/skills-assets/r-original.svg" alt="R" height="50" /></a>  
-<img src="your-image-source-here.jpg" style="margin: 30px;">
-src="https://profilinator.rishav.dev/skills-assets/excel-original.svg" alt="Excel" height="50" /></a>  
+<a href="https://profilinator.rishav.dev/skills-assets/excel-original.svg" target="_blank"><img style="margin: 30px" src="https://profilinator.rishav.dev/skills-assets/excel-original.svg" alt="Excel" height="50" /></a>  
 <a href="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
 <a href="https://profilinator.rishav.dev/skills-assets/powerbi.svg" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powerbi.svg" alt="Power BI" height="50" /></a>  
 <a href="https://profilinator.rishav.dev/skills-assets/tableau.svg" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tableau.svg" alt="Tableau" height="50" /></a>  
 </div>  
-
 <br/>   
 
 ## Connect with me  
